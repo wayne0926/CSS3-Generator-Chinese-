@@ -19,7 +19,7 @@
       }
    },
    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
-   "description": "A handy generator for all of your CSS3 needs from within the browser",
+   "description": "方便的浏览器插件生成器，可满足您所有CSS3的需求(汉化版)",
    "icons": {
       "16": "img/icon.png",
       "32": "img/icon-38.png",
